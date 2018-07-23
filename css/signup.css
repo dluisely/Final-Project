@@ -1,0 +1,48 @@
+h1 {
+text-align: center;
+}
+
+.form-control {
+  width: 450px;
+  height: 20px;
+  border-style: dashed;
+  border-radius: 30px;
+  border-color: darkgray;
+  padding: 20px;
+}
+
+select {
+  width: 400px;
+  height: 40px;
+}
+.help-block {
+  font-size: 19px;
+}
+header{
+  background-color: black;
+  text-decoration: underline;
+  color: white;
+  font-size: 16px;
+  text-align: justify;
+  margin: -8px;
+}
+.TradingX-redirect {
+  padding: 14px 16px;
+  float:left;
+  color: white
+}
+.login-redirect {
+  padding: 14px 16px;
+  float: right;
+  text-indent: -20px;
+  color: white;
+}
+.radio {
+  font-size: 19px;
+}
+.gender {
+  font-size: 19px;
+}
+.location {
+  font-size: 19px;
+}
